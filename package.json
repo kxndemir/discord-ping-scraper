@@ -1,0 +1,12 @@
+{
+  "name": "discord-ping-scraper",
+  "version": "1.0.0",
+  "description": "Bir sunucuda etiketlendiğinizde, mesajın içeriğini size atar. Ghost ping koruması mantığındadır.",
+  "main": "index.js",
+  "start": "node index.js",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  },
+  "license": "MIT",
+  "author": "formalite",
+}
